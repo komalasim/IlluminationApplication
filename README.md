@@ -53,6 +53,3 @@ Shopping Cart Page:
 
 ![Shopping Cart](https://github.com/Noor24-fast/IlluminationApplication/blob/master/Screenshot%203.jpeg)
 
-Place Order Page:
-
-![Place Order](https://github.com/Noor24-fast/IlluminationApplication/blob/master/Screenshot%204.jpeg)
